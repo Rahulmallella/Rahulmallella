@@ -236,7 +236,7 @@
 
 ### Computer Science
 
-**SRM University**
+**Lovely Professional University**
 
 📍 India
 
@@ -257,4 +257,181 @@
 
 ### 🤖 Generative AI & Enterprise AI
 
-* Build
+* Build and integrate **LLM, RAG, and Agentic AI** capabilities into enterprise healthcare applications.
+* Develop intelligent retrieval workflows using **embeddings, semantic search, vector databases, and enterprise data**.
+* Engineer production AI services using **Python, FastAPI, and modern LLM frameworks**.
+
+### ⚡ Backend & Microservices
+
+* Design scalable backend services using **Java, Spring Boot, Python, and FastAPI**.
+* Develop secure enterprise **REST APIs and microservices** supporting high-volume healthcare workflows.
+* Implement API versioning, schema validation, authentication, rate limiting, and performance optimization.
+
+### ☁️ Cloud & Production Engineering
+
+* Build and deploy cloud-native services across **GCP and AWS environments**.
+* Containerize applications using **Docker** and support distributed workloads with **Kubernetes**.
+* Own features across design, development, automated testing, CI/CD, deployment, monitoring, and production support.
+
+### 📊 AI/ML & Data Engineering
+
+* Build ML inference, evaluation, and data-processing pipelines for production AI applications.
+* Apply model evaluation, feature engineering, classification, and statistical techniques.
+* Develop reliable integrations across enterprise applications and data systems.
+
+---
+
+### 🛠️ Tech Stack
+
+**AI / GenAI:**
+`LLMs` `RAG` `Agentic AI` `LangChain` `LangGraph` `Embeddings` `Semantic Search`
+
+**Backend:**
+`Java` `Spring Boot` `Python` `FastAPI` `REST APIs` `Microservices`
+
+**Cloud & Infrastructure:**
+`GCP` `AWS` `Docker` `Kubernetes` `Cloud Run`
+
+**DevOps:**
+`Jenkins` `CI/CD` `Git` `Monitoring` `Logging`
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🐟 Application Systems / AI-ML Engineering | Florida Fish & Wildlife</b></summary>
+
+<br>
+
+### 🤖 Machine Learning
+
+* Developed and evaluated machine learning solutions using **Python and Scikit-learn**.
+* Benchmarked model variants using **ROC-AUC**, prioritizing recall for anomaly detection workflows.
+* Applied feature engineering, model evaluation, and statistical techniques to production datasets.
+
+### 📊 Data Engineering
+
+* Built and maintained reliable data-processing and **ETL pipelines**.
+* Developed automated validation workflows for data quality and downstream applications.
+* Integrated structured datasets into backend and analytical systems.
+
+### ⚡ Software Engineering
+
+* Developed backend services and automation using **Python, SQL, and REST APIs**.
+* Improved reliability and maintainability through modular application design and automated testing.
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` `Scikit-learn` `SQL` `REST APIs` `ETL` `Machine Learning` `Data Pipelines`
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🏗️ AI/ML & Software Engineering | Skyline Infrastructure</b></summary>
+
+<br>
+
+### 🧠 Machine Learning
+
+* Designed and trained **classification and regression models** using Scikit-learn.
+* Engineered time-based and behavioral features from application and booking data.
+* Improved model performance through feature engineering and hyperparameter optimization.
+
+### ⚡ Backend Engineering
+
+* Developed Python-based backend components and data-processing workflows.
+* Built RESTful integrations connecting applications, databases, and analytical systems.
+* Applied scalable software-engineering practices to production applications.
+
+### 📊 Data & Analytics
+
+* Built data transformation and preprocessing workflows supporting ML applications.
+* Worked with structured datasets using **Python, Pandas, SQL, and analytical libraries**.
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` `Scikit-learn` `Pandas` `SQL` `REST APIs` `Machine Learning` `Data Engineering`
+
+</details>
+
+---
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Engineering
+
+`Generative AI`
+`Large Language Models`
+`RAG`
+`Agentic AI`
+`Semantic Search`
+
+</td>
+
+<td width="50%">
+
+### ⚡ Software Engineering
+
+`Distributed Systems`
+`Microservices`
+`Backend Engineering`
+`Cloud Architecture`
+`Production Systems`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Machine Learning
+
+`Classification`
+`Regression`
+`Model Evaluation`
+`Feature Engineering`
+`ML Inference`
+
+</td>
+
+<td width="50%">
+
+### ☁️ Cloud Engineering
+
+`AWS`
+`GCP`
+`Docker`
+`Kubernetes`
+`CI/CD`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Mallela-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rahulm1233/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rahulmallella-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rahulmallella)
+
+<br>
+
+### ✨ Building scalable software • Engineering intelligent systems • Solving real-world problems ✨
+
+</div>
